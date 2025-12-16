@@ -1,0 +1,15 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class Even {
+   public Even() {
+   }
+
+   public static void main(String[] var0) {
+      byte var1 = 29;
+      if (var1 % 2 == 0) {
+         System.out.println("" + var1 + "is an even number.");
+      } else {
+         System.out.println("" + var1 + "is an odd number.");
+      }
+
+   }
+}
